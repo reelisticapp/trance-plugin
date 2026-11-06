@@ -45,6 +45,14 @@ Then say: **"Set up Trance for my brand"**.
 | `/brand`, `/connections` | Your brand's files and your connections |
 | `/trance-daily` | The scheduled run: does the work that is due |
 
+## What this plugin does and sends
+
+The plugin is text only: one skill, 15 commands and one agent that tell Claude how to work with Trance. It has no hooks and no scripts, and it
+installs and runs no code on your computer. Its one connection is the Trance connector declared in `.mcp.json`
+(`https://trance-api.reelisticapp.com/trance/mcp`, over HTTPS, with your own Trance login). What you ask Trance to do, and the brand
+information you give it, is sent to that server, which stores your brand, strategy, calendar, posts and results so Trance can work on them.
+Nothing is sent anywhere else by the plugin.
+
 ## Your data and your keys
 
 - You keep control of what is spent: images and videos are made with your own WaveSpeed key, voice with your own ElevenLabs key, and Meta Ads
