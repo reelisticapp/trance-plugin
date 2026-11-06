@@ -1,0 +1,16 @@
+{
+  "name": "reelistic-trance",
+  "description": "Trance by Reelistic: Marketing - Trance, run from a Claude chat.",
+  "owner": {
+    "name": "Reelistic",
+    "url": "https://trancegrowth.com"
+  },
+  "plugins": [
+    {
+      "name": "trance",
+      "source": "./",
+      "description": "Marketing - Trance: Radar, strategy, calendar, ideas, posts, carousels and videos, blog, email, SEO/GEO audits, Meta Ads, analytics and market research, run from Claude.",
+      "homepage": "https://trancegrowth.com"
+    }
+  ]
+}

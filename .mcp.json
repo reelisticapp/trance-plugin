@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "trance": {
+      "type": "http",
+      "url": "https://trance-api.reelisticapp.com/trance/mcp"
+    }
+  }
+}
