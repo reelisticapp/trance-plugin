@@ -35,13 +35,13 @@ Then say: **"Set up Trance for my brand"**.
 | `/home` | Where things stand and what is next |
 | `/guide` | What Trance can do and what to say to do it |
 | `/invite` | Invite someone to Trance: they pay no setup fee |
-| `/radar` | Radar: where to grow, and how the brand performs against where it started |
+| `/radar` | Radar: where your business should grow, and what to do first |
 | `/ideas` | Ideas for the next post |
 | `/plan-week` | Fill the coming week of the calendar |
 | `/posts` | Posts waiting for your approval |
 | `/calendar`, `/schedule` | Your calendar and your posting schedule |
 | `/strategy` | See or change the content strategy |
-| `/analytics` | How the brand is doing |
+| `/analytics` | How the brand is doing, and its performance chart against where it started |
 | `/research` | Market research: competitors, trends and news |
 | `/brand`, `/connections` | Your brand's files and your connections |
 | `/trance-daily` | The scheduled run: does the work that is due |
