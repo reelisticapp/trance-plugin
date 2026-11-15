@@ -34,20 +34,21 @@ Then say: **"Set up Trance for my brand"**.
 | `/trance-setup` | Takes you through the setup: your brand, your accounts, Radar, strategy |
 | `/home` | Where things stand and what is next |
 | `/guide` | What Trance can do and what to say to do it |
-| `/radar` | Radar: where to grow, and how the brand performs against where it started |
+| `/invite` | Invite someone to Trance: they pay no setup fee |
+| `/radar` | Radar: where your business should grow, and what to do first |
 | `/ideas` | Ideas for the next post |
 | `/plan-week` | Fill the coming week of the calendar |
 | `/posts` | Posts waiting for your approval |
 | `/calendar`, `/schedule` | Your calendar and your posting schedule |
 | `/strategy` | See or change the content strategy |
-| `/analytics` | How the brand is doing |
+| `/analytics` | How the brand is doing, and its performance chart against where it started |
 | `/research` | Market research: competitors, trends and news |
 | `/brand`, `/connections` | Your brand's files and your connections |
 | `/trance-daily` | The scheduled run: does the work that is due |
 
 ## What this plugin does and sends
 
-The plugin is text only: one skill, 15 commands and one agent that tell Claude how to work with Trance. It has no hooks and no scripts, and it
+The plugin is text only: one skill, 16 commands and one agent that tell Claude how to work with Trance. It has no hooks and no scripts, and it
 installs and runs no code on your computer. Its one connection is the Trance connector declared in `.mcp.json`
 (`https://trance-api.reelisticapp.com/trance/mcp`, over HTTPS, with your own Trance login). What you ask Trance to do, and the brand
 information you give it, is sent to that server, which stores your brand, strategy, calendar, posts and results so Trance can work on them.
